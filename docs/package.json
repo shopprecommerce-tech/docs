@@ -1,0 +1,19 @@
+{
+  "name": "docs",
+  "version": "0.0.1",
+  "description": "Commerce Official Docs",
+  "main": "index.js",
+  "authors": {
+    "name": "IT Admin",
+    "email": "admin@shopprecommerce.com"
+  },
+  "repository": "https://github.com/shopprecommerce-tech/docs.git/docs",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
